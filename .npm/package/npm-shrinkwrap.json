@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "spark-md5": {
+      "version": "https://github.com/satazor/SparkMD5/tarball/018fee878fde6dc0a064e057b3c95cd5b017e788"
+    }
+  }
+}
