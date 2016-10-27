@@ -1,13 +1,13 @@
 Package.describe({
   name: "3stack:spark-md5",
-  version: "2.0.0",
+  version: "2.0.1",
   summary: 'https://github.com/satazor/SparkMD5',
   git: 'https://github.com/3stack-software/meteor-spark-md5',
   documentation: "README.md"
 });
 
 Npm.depends({
-  "spark-md5": "https://github.com/satazor/SparkMD5/tarball/018fee878fde6dc0a064e057b3c95cd5b017e788"
+  "spark-md5": "https://github.com/nathan-muir/SparkMD5/tarball/ce1bab34ce1adfbd0d0a8f129b35901c5385f42b"
 });
 
 Package.onUse(function(api){
